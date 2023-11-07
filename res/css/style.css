@@ -1,0 +1,53 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("/res/img/dark-background-abstract-background-network-3d-background-7680x4320-8324.png");
+}
+#cube {
+  background-color: rgba(255, 255, 255, 0.79);
+
+  margin-left: 680px;
+  width: 600px;
+  height: 100px;
+  border-radius: 1000px;
+  transition: 0.3s ease;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 12px;
+}
+#cube2 {
+  border: 3px solid black;
+
+  width: 100px;
+  height: 100px;
+  border-radius: 1000px;
+  transition: 0.3s ease;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 12px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  background-color: rgba(233, 10, 10, 0.587);
+}
+
+#cube3 {
+  border: 3px solid black;
+
+  width: 100px;
+  height: 100px;
+  border-radius: 1000px;
+  transition: 0.3s ease;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 12px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  background-color: rgba(233, 10, 10, 0.587);
+}
+
+img {
+  width: 50px;
+}
